@@ -1,3 +1,4 @@
-# helloworld2
-says hello world2  
-Actually,this is a branched repository . A commit which is a readme-edit branch and not master branch.
+Consists of a list of projects 
+1>GST
+2>2TravellingLadz Blog
+3>
