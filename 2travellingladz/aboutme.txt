@@ -1,0 +1,3 @@
+ Title : 2TravellingLadz Blog site
+ Description : It is a blogging system wherein the admin section deals with adding and deleting posts regarding their traveling experience .The user can view them and add comments 
+ Languages : PHP, PHPMyAdmin, MySQL, Bootstrap 
